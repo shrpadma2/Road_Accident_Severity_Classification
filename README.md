@@ -10,7 +10,7 @@ This multiclass classification effort divides the seriousness of traffic inciden
 
 ### Tasks and methods employed:
 
-Analyzing exploratory data is step one.
+- Analyzing exploratory data is step one.
 - Dabl is used to analyze data.
 - Exploratory data analysis with Seaborn and Matplotlib.
 
