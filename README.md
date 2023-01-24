@@ -16,7 +16,7 @@ This multiclass classification effort divides the seriousness of traffic inciden
 
 2. Data pre-processing and preparation
 - Lack of Values Fillna-method treatment
-- One Hot utilizing pandas get_dummies encoding
+- One Hot encoding utilizing pandas method get_dummies 
 - Feature selection using the SelectKBest method and the "chi2" statistic
 - Using PCA to lower dimensionality
 - Data imbalance treatment using the "SMOTENC" method
